@@ -88,7 +88,7 @@
     "babel-plugin-import": "^1.11.0",
     "eslint-config-react-tools": "1.x.x",
     "react-static-plugin-typescript": "^3.0.1",
-    "serve": "10.1.1",
+    "serve": "10.1.2",
     "terser-webpack-plugin": "^1.2.1",
     "typescript": "^3.2.2"
   }
